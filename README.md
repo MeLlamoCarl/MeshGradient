@@ -1,3 +1,9 @@
+> **Fork notice:** private fork of [EthanLipnik/MeshGradient](https://github.com/EthanLipnik/MeshGradient)
+> (itself a fork of [patskovn/MeshGradient](https://github.com/patskovn/MeshGradient)), used by
+> [MeLlamoCarl/Meshy](https://github.com/MeLlamoCarl/Meshy). Tag `1.0.10` = upstream `1.0.9` plus a
+> fix for building the Metal shaders with the macOS 26 SDK. Not affiliated with the original authors.
+> MIT License, see [LICENSE](LICENSE).
+
 # MeshGradient
 
 Metal-based implementation of beautiful mesh gradient. Image worth thousands of words, so just let me show you.
